@@ -24,3 +24,6 @@ Program was implemented using Python and BERT. Refer the report for further impl
 2. Neural Network Model Predictions: Using MLP Classifier, highest precision, recall, and f1-score is for Thai, whereas lowest is for Mandarin. Misclassification is highest for Mandarin, whereas lowest for Thai.
 <img src="https://github.com/chandnii7/UsingBERT/blob/main/data/img_nn.jpg" height="400" width="700"/>
 <br/>
+
+### Improvements:
+The logistic regression model can be improved by hyperparameter tuning by grid search. The neutral network model can be improved by using hyperparameter optimization tools on parameters like hidden_layer_sizes, activation, solver, alpha, learning_rate, max_iter, etc. Use BERT vectors and more data to train the models in order to see improvements.

@@ -1,4 +1,4 @@
-# Using pre-trained BERT vectors for text classification
+# Text Classification using Pre-trained BERT Vectors
 
 Program performs text classification of following 10 classes using BERT vector:
 1. Arabic
